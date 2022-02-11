@@ -1,0 +1,9 @@
+Alguns Comandos Importantes usados no Terminal do GitHub:
+
+git init - para criar reporitório a partir de uma pasta local;
+git add * - para adicionar qualquer conteúdo adicionado ao repositório local;
+git status - para saber o status dos arquivos/pastas;
+git commit -m "mensagem a ser colocada" - para comitar e dar título ao conteúdo comitado;
+git push origin main/master - para empurrar para o repositório remoto;
+git clone - para clonar página de um repositório remoto para o seu repositório local;
+...
